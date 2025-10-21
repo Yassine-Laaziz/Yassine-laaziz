@@ -1,4 +1,4 @@
-<h2 style="text-align:center">Software Engineer</h2>
+<h1 style="text-align:center">Software Engineer</h1>
 
 <div style="text-align:center">
 <strong>🌐 Portfolio:</strong> <a href="https://yassinelz.vercel.app">https://yassinelz.vercel.app</a>
