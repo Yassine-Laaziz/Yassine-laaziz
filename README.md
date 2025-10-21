@@ -1,7 +1,6 @@
 <h2 style="text-align:center">Software Engineer</h2>
 
 <div style="text-align:center">
-<h3>A Full-stack developer, A Front-end Specialist</h3>
 <strong>🌐 Portfolio:</strong> <a href="https://yassinelz.vercel.app">https://yassinelz.vercel.app</a>
 <br>
 <strong>📧 E-mail:</strong> Yassinelaaziz0@gmail.com
