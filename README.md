@@ -16,33 +16,11 @@ About Me
 
 Hello I'm Yassine, welcome to my open-source web work, here you can view first-hand the way I code, how I think, and the problem-solving I display through-out each one of these projects.
 
-experience: currently having 4 years of experience in full-stack web development, even more in web security, ethical hacking, and game development before-hand, as you can tell, I'm an enthusiast..
+experience: currently possessing more than 5 years of experience in full-stack development, even more in web security, ethical hacking, and game development
 
 Things I live for:  productive teams, hard puzzles, and good coffee.
 
 ---
-
-##  Technologies :
-
-
-### **Full Stack Development**
-
-| Category |  Technologies |
-| :--- | :--- |
-| **Back-end** | Node/Express, Java/spring-boot, GraphQL|
-| **Databases** | SQL, No-SQL PostgreSQL, MongoDB |
-| **Dev-ops** | Docker, Kubernetes, CI/CD, Testing, Capacitor|
-
-
-### **Front-End Specialization**
-
-| Category |  Technologies |
-| :--- | :--- |
-| **Main** | React/Next.js, Three.js, Redux, GraphQL, Tailwind, HeadlessUI, Framer-motion, Responsive design, Web Accessibility ( A11Y ) |
-| **Languages** | TypeScript/JavaScript, HTML5, CSS3/SASS/LESS |
-
----
-
 
 ## 🤝 Let's Connect
 
